@@ -4,7 +4,7 @@ A News App built with Next.js.
 
 ## Demo
 
-[Link]()
+[Link](https://animated-florentine-ca1e92.netlify.app/)
 
 ## Getting Started
 
