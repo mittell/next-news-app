@@ -1,7 +1,13 @@
-import '../styles/globals.css'
+import ToolBar from '../components/ToolBar';
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+	return (
+		<>
+			<ToolBar />
+			<Component {...pageProps} />
+		</>
+	);
 }
 
-export default MyApp
+export default MyApp;
